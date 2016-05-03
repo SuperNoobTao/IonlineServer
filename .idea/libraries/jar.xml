@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/jar/c3p0-0.9.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/jar/commons-dbutils-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/jar/gson-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/jar/mchange-commons-java-0.2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/jar/mysql-connector-java-5.1.37-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
